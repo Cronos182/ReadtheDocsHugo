@@ -8,8 +8,10 @@ Welcome to Sphinx project's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: contents:
+   :caption: Contents:
 
+   contents
+   tabla
 
 
 Indices and tables
